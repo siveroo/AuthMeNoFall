@@ -1,0 +1,4 @@
+name: AuthMeNoFall
+version: 1.0
+main: siveroo.authNoFall.Main
+api-version: 1.13

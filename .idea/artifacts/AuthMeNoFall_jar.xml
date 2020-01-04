@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AuthMeNoFall:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AuthMeNoFall_jar</output-path>
+    <root id="archive" name="AuthMeNoFall.jar">
+      <element id="module-output" name="AuthMeNoFall" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../!LIBRARIES/spigot-api-1.13.2-R0.1-20190423.030901-214.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
